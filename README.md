@@ -3,7 +3,7 @@
 ## I'm a Son, Brother, Developer and Designer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to work on projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
