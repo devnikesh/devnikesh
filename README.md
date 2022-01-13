@@ -37,8 +37,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-4. 🗣 Commented on [#858](https://github.com/slurpcode/slurp/issues/858#issuecomment-1011872712) in [slurpcode/slurp](https://github.com/slurpcode/slurp/)
-1. 🗣 Commented on [#11](https://github.com/darekkay/static-marks/issues/11) in [darekkay/static-marks](https://github.com/darekkay/static-marks/)
+1. 🗣 Commented on [#858](https://github.com/slurpcode/slurp/issues/858#issuecomment-1011872712) in [slurpcode/slurp](https://github.com/slurpcode/slurp/)
+2. 🗣 Commented on [#11](https://github.com/darekkay/static-marks/issues/11) in [darekkay/static-marks](https://github.com/darekkay/static-marks/)
 <!--END_SECTION:activity-->
 
 </details>
