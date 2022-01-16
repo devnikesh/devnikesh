@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikesh 👋
 
-## I'm a Son, Brother, Developer and Designer !!
+## I'm a Front-End Developer and Designer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work on projects
