@@ -32,6 +32,10 @@
 <br />
 
 ---
+<summary>:zap: Working on</summary>
+<!--START_SECTION:activity-->
+1. 🗣 Working on [#4](https://github.com/darekkay/static-marks-app/pull/4) in [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app/)
+<!--END_SECTION:activity-->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
