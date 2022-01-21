@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work on projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
+- Reach me: [nikesh123u@gmail.com](mailto:nikesh123u@gmail.com)
 
 <br />
 
