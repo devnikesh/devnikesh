@@ -6,6 +6,8 @@
 - 👯 I’m looking to work on projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnikesh&theme=radical)
+
 ### Connect with me:
 
 [<img align="left" alt="devnikesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -30,8 +32,6 @@
 
 <br />
 <br />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnikesh&theme=radical)
 
 ---
 <summary>:zap: Working on</summary>
