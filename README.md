@@ -7,7 +7,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 <a href="mailto:nikesh123u@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[<img align="left" alt="devnikesh | Gmail" width="22px" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 
 <br />
 
@@ -71,5 +70,3 @@
 [linkedin]: https://linkedin.com/in/iamnikesh
 [twitter]: https://twitter.com/officialnikesh
 [instagram]: https://instagram.com/nikeshshresthaofficial
-[gmail]: mailto:nikesh123u@gmail.com
-
