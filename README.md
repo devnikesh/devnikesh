@@ -40,7 +40,7 @@
 ---
 <summary>:zap: Working on</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Working on [#4](https://github.com/darekkay/static-marks-app/pull/4) in [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app/)
+1. 🗣 Working on in [devnikesh/blog](https://github.com/devnikesh/blog)
 <!--END_SECTION:activity-->
 
 <details>
