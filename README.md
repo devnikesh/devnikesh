@@ -6,8 +6,6 @@
 - 👯 I’m looking to work on projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
-<a href="mailto:nikesh123u@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 <br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnikesh&theme=radical)
