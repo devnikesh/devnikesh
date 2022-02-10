@@ -36,10 +36,10 @@
 <br />
 
 ---
-<summary>:zap: Working on</summary>
+<!-- <summary>:zap: Working on</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Working on in [devnikesh/blog](https://github.com/devnikesh/blog)
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity--> -->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
