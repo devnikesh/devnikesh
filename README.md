@@ -46,6 +46,7 @@
 2. 🗣 Commented on [#11](https://github.com/darekkay/static-marks/issues/11) in [darekkay/static-marks](https://github.com/darekkay/static-marks/)
 3. 🖐 Opened a Pull Request on [#4](https://github.com/darekkay/static-marks-app/pull/4) in [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app/)
 4. 🖐 Opened a Pull Request on [#1323](https://github.com/slurpcode/slurp/pull/1323) in [slurpcode/slurp](https://github.com/slurpcode/slurp/)
+5. 🗣 Added Dark Mode Feature to a Bookmarking App [#11](https://github.com/darekkay/static-marks/issues/11) in [darekkay/static-marks](https://github.com/darekkay/static-marks/)
 <!--END_SECTION:activity-->
 
 </details>
