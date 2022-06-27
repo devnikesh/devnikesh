@@ -46,11 +46,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#858](https://github.com/slurpcode/slurp/issues/858#issuecomment-1011872712) in [slurpcode/slurp](https://github.com/slurpcode/slurp/)
-2. 🗣 Commented on [#11](https://github.com/darekkay/static-marks/issues/11) in [darekkay/static-marks](https://github.com/darekkay/static-marks/)
-3. 🖐 Opened a Pull Request on [#4](https://github.com/darekkay/static-marks-app/pull/4) in [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app/)
-4. 🖐 Opened a Pull Request on [#1323](https://github.com/slurpcode/slurp/pull/1323) in [slurpcode/slurp](https://github.com/slurpcode/slurp/)
-5. 🗣 Added Dark Mode Feature to a Bookmarking App [#11](https://github.com/darekkay/static-marks/issues/11) in [darekkay/static-marks](https://github.com/darekkay/static-marks/)
+1. 🗣 Commented on [#1208](https://github.com/hackforla/food-oasis/issues/1208) in [hackforla/food-oasis](https://github.com/hackforla/food-oasis/)
+2. 🖐 Opened a Pull Request on [#1243](https://github.com/hackforla/food-oasis/pull/1243) in [hackforla/food-oasis](https://github.com/hackforla/food-oasis/)
+3. 🗣 Commented on [#1208](https://github.com/hackforla/food-oasis/issues/1208) in [hackforla/food-oasis](https://github.com/hackforla/food-oasis/)
+4. 🗣 Commented on [#11](https://github.com/darekkay/static-marks/issues/11) in [darekkay/static-marks](https://github.com/darekkay/static-marks/)
+5. 🗣 Added Dark Mode Feature to a Bookmarking App [#11](https://github.com/darekkay/static-marks/issues/11) in [darekkay/static-marks](https://github.com/darekkay/static-marks/
+6. 🖐 Opened a Pull Request on [#4](https://github.com/darekkay/static-marks-app/pull/4) in [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app/)
+7. 🖐 Opened a Pull Request on [#1323](https://github.com/slurpcode/slurp/pull/1323) in [slurpcode/slurp](https://github.com/slurpcode/slurp/)
 <!--END_SECTION:activity-->
 
 </details>
