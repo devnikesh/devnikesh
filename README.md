@@ -37,7 +37,8 @@
 
 ---
 <details>
-  Currently Working on my Portfolio Site
+  Contributing to [Food Oasis](https://github.com/hackforla/food-oasis) as a Front End Developer.
+  Coding Portfolio Site
 </details>
 
 
