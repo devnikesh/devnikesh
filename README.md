@@ -8,8 +8,6 @@
 
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnikesh&theme=radical)
-
 ### Connect with me:
 
 [<img align="left" alt="devnikesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
