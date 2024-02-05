@@ -2,9 +2,9 @@
 
 ## I'm a Front-End Developer and Designer !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning AWS, MySql, PHP, Wordpress
 - 👯 I’m looking to work on projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 <br />
 
